@@ -3,7 +3,7 @@
 Backend & .NET developer portfolio. Modern, bilingual (TR / EN), dark theme.
 Built with vanilla **HTML · CSS · JavaScript** — no build step, deploys straight to GitHub Pages.
 
-🔗 Live: https://melihc6n.github.io/portfolio/
+🔗 Live: https://melihc6n.github.io
 
 ## Structure
 
